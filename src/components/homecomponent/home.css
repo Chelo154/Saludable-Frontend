@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+.home-align{
+    background-image: url('SaludableCover.jpg');    
+    padding: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-align>.home{    
+    background-color: rgba(255, 113, 100, 0.829);
+    border-style: solid;    
+    border-color: rgba(255, 255, 255);
+    box-shadow: 0.7cm 0.7cm 1cm black; 
+    padding: 5rem;  
+    width:  50%;    
+    text-align: center;
+    
+    
+}
+.btn-l{
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+}
+.btn-r{
+    box-sizing: border-box;
+    width: 50%;
+    float: right;
+}

@@ -1,0 +1,14 @@
+
+.saludable-input
+{
+    margin-left: 1rem;
+    border-color: rgba(255, 21, 0);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 15rem;
+    height: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.7);
+
+    
+}
